@@ -1,1 +1,3 @@
-first_number = number
+def first_number
+  
+end
