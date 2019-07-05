@@ -1,3 +1,3 @@
 def first_number(number)
-   number = integer
+   first_number = 0
 end
